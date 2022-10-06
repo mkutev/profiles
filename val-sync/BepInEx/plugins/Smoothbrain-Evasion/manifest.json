@@ -1,0 +1,9 @@
+{
+    "name": "Evasion",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/blaxxun-boop/Evasion",
+    "description": "Adds a skill that reduces the stamina usage of dodging.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

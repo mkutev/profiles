@@ -369,3 +369,70 @@
   enabled: true
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/virtuaCode-TrashItems/1.2.4/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Evasion
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Evasion/
+  displayName: Evasion
+  description: Adds a skill that reduces the stamina usage of dodging.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Evasion/1.0.1/icon.png
+- manifestVersion: 1
+  name: Maximmus-Useful_Trophies
+  authorName: Maximmus
+  websiteUrl: https://valheim.thunderstore.io/package/Maximmus/Useful_Trophies/
+  displayName: Useful_Trophies
+  description: Improve your stats by consuming trophies while reducing inventory clutter!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Maximmus-Useful_Trophies/1.1.0/icon.png
+- manifestVersion: 1
+  name: JereKuusela-Smoke_Collision
+  authorName: JereKuusela
+  websiteUrl: https://valheim.thunderstore.io/package/JereKuusela/Smoke_Collision/
+  displayName: Smoke_Collision
+  description: Allows smoke to pass through iron cage floors and other similar
+    structures. Also allows changing the smoke size.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/JereKuusela-Smoke_Collision/1.3.0/icon.png
