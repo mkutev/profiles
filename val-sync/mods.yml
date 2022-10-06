@@ -345,3 +345,27 @@
   enabled: true
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/Banderi-Rotating_Minimap/1.0.0/icon.png
+- manifestVersion: 1
+  name: virtuaCode-TrashItems
+  authorName: virtuaCode
+  websiteUrl: https://valheim.thunderstore.io/package/virtuaCode/TrashItems/
+  displayName: TrashItems
+  description: This mod adds a trash can to your inventory screen where you can
+    drag and drop your unneeded items to destroy them permanently. (With gamepad
+    support)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/virtuaCode-TrashItems/1.2.4/icon.png
