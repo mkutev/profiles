@@ -1,0 +1,9 @@
+{
+  "name": "SmartContainers",
+  "description": "Want to quickly drop your loot? Tired of looking for chest with a specific item-stack in order to store some more of it?\nTeach your containers to arrange items with their neighbors!",
+  "version_number": "1.6.0",
+  "website_url": "https://www.nexusmods.com/valheim/mods/332",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.800"
+  ]
+}

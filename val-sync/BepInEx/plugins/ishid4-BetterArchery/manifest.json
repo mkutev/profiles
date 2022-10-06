@@ -1,0 +1,9 @@
+{
+    "name": "BetterArchery",
+    "version_number": "1.7.6",
+    "website_url": "",
+    "description": "Adds many features and changes to bow gameplay.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1501"
+    ]
+}

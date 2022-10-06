@@ -1,0 +1,9 @@
+{
+    "name": "Blacksmiths_tools",
+    "version_number": "2.0.2",
+    "website_url": "https://github.com/GoldenJude/BlacksmithTools",
+    "description": "Tool for hiding parts of the player model when equipping wearables, also a fix for incorrectly deforming skinned meshes on custom items.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1700"
+    ]
+}

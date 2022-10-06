@@ -1,0 +1,9 @@
+{
+    "name": "Rotating_Minimap",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Banderi/ValheimMinimapMod",
+    "description": "A simple rotating minimap mod for Valheim.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1700"
+    ]
+}
