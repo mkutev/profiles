@@ -252,29 +252,6 @@
   icon: C:/Users/mk/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/ishid4-BetterArchery/1.7.6/icon.png
 - manifestVersion: 1
-  name: sweetgiorni-AnyPortal
-  authorName: sweetgiorni
-  websiteUrl: https://valheim.thunderstore.io/package/sweetgiorni/AnyPortal/
-  displayName: AnyPortal
-  description: Overhauls the portal pairing system by allowing you to select and
-    travel to any existing portal, regardless of tag.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - ValheimModding-Jotunn-2.6.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:/Users/mk/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/sweetgiorni-AnyPortal/2.0.0/icon.png
-- manifestVersion: 1
   name: ZOR-SmartContainers
   authorName: ZOR
   websiteUrl: https://valheim.thunderstore.io/package/ZOR/SmartContainers/
@@ -526,3 +503,26 @@
   enabled: false
   icon: C:/Users/mk/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/billw2012-BetterContinents/0.7.3/icon.png
+- manifestVersion: 1
+  name: sweetgiorni-AnyPortal
+  authorName: sweetgiorni
+  websiteUrl: https://valheim.thunderstore.io/package/sweetgiorni/AnyPortal/
+  displayName: AnyPortal
+  description: Overhauls the portal pairing system by allowing you to select and
+    travel to any existing portal, regardless of tag.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.6.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/mk/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/sweetgiorni-AnyPortal/2.0.0/icon.png
