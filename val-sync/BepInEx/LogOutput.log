@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 19 plugins to load
+[Info   :   BepInEx] 18 plugins to load
 [Info   :   BepInEx] Loading [Jotunn 2.7.9]
 [Info   :    Jotunn] Initializing LocalizationManager
 [Info   :    Jotunn] Initializing CommandManager
@@ -41,17 +41,15 @@
 [Info   :   BepInEx] Loading [BlacksmithTools 2.0.2]
 [Info   :   BepInEx] Loading [JudesEquipment 2.2.0]
 [Info   :   BepInEx] Loading [More Player Cloth Colliders 3.0.1]
-[Info   :   BepInEx] Loading [Project Auga 1.0.12]
-[Info   : Unity Log] 10/07/2022 19:31:52: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 10/07/2022 19:31:52: Loaded localization CSV:localization_extra language:English
-
-[Info   : Unity Log] 10/07/2022 19:31:52: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 10/07/2022 19:31:52: Loaded localization CSV:localization_extra language:English
-
-[Info   :   BepInEx] Loading [Better Archery 1.7.6]
 [Info   :   BepInEx] Loading [Evasion 1.0.1]
+[Info   : Unity Log] 10/07/2022 19:57:25: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/07/2022 19:57:25: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/07/2022 19:57:25: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/07/2022 19:57:25: Loaded localization CSV:localization_extra language:English
+
 [Info   :   BepInEx] Loading [Valheim Plus 0.9.9.9]
 [Info   :Valheim Plus] Trying to load the configuration file
 [Info   : Unity Log] Loading config section AdvancedBuildingMode
@@ -258,12 +256,13 @@
 [Info   :Valheim Plus] Configuration file loaded succesfully.
 [Info   :Valheim Plus] ValheimPlus [0.9.9.9] is up to date.
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Project Auga 1.0.12]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.15]
 [Info   :   BepInEx] Loading [Smoke Collision 1.3]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 10/07/2022 19:31:57: Starting to load scene:start
+[Info   : Unity Log] 10/07/2022 19:57:29: Starting to load scene:start
 
 [Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
 [Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
@@ -278,54 +277,48 @@
 [Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
 [Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 10/07/2022 19:32:00: Using environment steamid 892970
+[Info   : Unity Log] 10/07/2022 19:57:32: Using environment steamid 892970
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Using steam APPID:892970
+[Info   : Unity Log] 10/07/2022 19:57:32: Using steam APPID:892970
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 10/07/2022 19:57:32: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Steam initialized, persona:✧︎  𝕯𝖊𝖒 𝕭𝖔𝖓𝖊𝖘  ✧
+[Info   : Unity Log] 10/07/2022 19:57:32: Steam initialized, persona:✧︎  𝕯𝖊𝖒 𝕭𝖔𝖓𝖊𝖘  ✧
 
-[Info   : Unity Log] 10/07/2022 19:32:00: PlayFab custom ID set to "Steam_76561198049700666"
+[Info   : Unity Log] 10/07/2022 19:57:32: PlayFab custom ID set to "Steam_76561198049700666"
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Using default prefs
+[Info   : Unity Log] 10/07/2022 19:57:32: Using default prefs
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Valheim version:0.211.8@0.9.9.9
+[Info   : Unity Log] 10/07/2022 19:57:32: Valheim version:0.211.8@0.9.9.9
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 10/07/2022 19:32:00: Render threading mode:MultiThreaded
+[Info   : Unity Log] 10/07/2022 19:57:32: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/07/2022 19:57:32: Loaded localization CSV:localization_extra language:English
 
-[Warning: Unity Log] 10/07/2022 19:32:00: Missing audio clip in music respawn
+[Warning: Unity Log] 10/07/2022 19:57:32: Missing audio clip in music respawn
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Checking for installed DLCs
+[Info   : Unity Log] 10/07/2022 19:57:32: Checking for installed DLCs
 
-[Info   : Unity Log] 10/07/2022 19:32:00: DLC:beta installed:False
+[Info   : Unity Log] 10/07/2022 19:57:32: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/07/2022 19:57:33: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/07/2022 19:32:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/07/2022 19:57:33: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Info   :Jotunn.Managers.ItemManager] Adding 2 custom items to the ObjectDB
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
@@ -364,719 +357,24 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Warning: Unity Log] 10/07/2022 19:32:01:   error loading world pizza
+[Warning: Unity Log] 10/07/2022 19:57:34:   error loading world pizza
 
-[Info   : Unity Log] 10/07/2022 19:32:02: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 10/07/2022 19:57:34: Ticket is System.Byte[] of length 369
 
-[Info   : Unity Log] 10/07/2022 19:32:02: Session auth respons callback
+[Info   : Unity Log] 10/07/2022 19:57:34: Session auth respons callback
 
-[Info   : Unity Log] 10/07/2022 19:32:02: UI Group status changed Menu = True
+[Info   : Unity Log] 10/07/2022 19:57:34: UI Group status changed Menu = True
 
-[Info   : Unity Log] 10/07/2022 19:32:02: PlayFab logged in as "Steam_76561198049700666"
+[Info   : Unity Log] 10/07/2022 19:57:34: PlayFab logged in as "Steam_76561198049700666"
 
-[Info   : Unity Log] 10/07/2022 19:32:02: PlayFab local entity ID is 9EB37C6805D101D0
+[Info   : Unity Log] 10/07/2022 19:57:34: PlayFab local entity ID is 9EB37C6805D101D0
 
-[Info   : Unity Log] 10/07/2022 19:32:03: UI Group status changed Menu = True
+[Info   : Unity Log] 10/07/2022 19:57:35: UI Group status changed Menu = True
 
-[Info   : Unity Log] 10/07/2022 19:37:22: FOund selected Start game
+[Info   : Unity Log] 10/07/2022 19:58:10: FOund selected Start game
 
-[Info   : Unity Log] 10/07/2022 19:37:22: show character selection
-
-[Info   : Unity Log] 10/07/2022 19:37:23: OnCharacterStart
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Loading main scene
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Steam initialized, persona:✧︎  𝕯𝖊𝖒 𝕭𝖔𝖓𝖊𝖘  ✧
-
-[Info   : Unity Log] 10/07/2022 19:37:27: PlayFab custom ID set to "Steam_76561198049700666"
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Using default prefs
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 10/07/2022 19:37:27: Loading player profile niiiiikolai
-
-[Info   : Unity Log] 10/07/2022 19:37:27: isModded: True
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Zonesystem Awake 18937
-
-[Info   : Unity Log] 10/07/2022 19:37:27: DungeonDB Awake 18937
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Steam initialized, persona:✧︎  𝕯𝖊𝖒 𝕭𝖔𝖓𝖊𝖘  ✧
-
-[Info   : Unity Log] 10/07/2022 19:37:27: Registering lobby
-
-[Info   : Unity Log] Registered 'org.bepinex.plugins.evasion SkillManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'smoke_collision ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
-[Info   :Jotunn.Managers.PrefabManager] Adding 270 custom prefabs to the ZNetScene
-[Info   : Unity Log] [CustomSlotCreator] Created quiver slot for LeatherQuiver.
-[Warning: Unity Log] [BetterArchery]: Could not find directory (SFX).
-[Info   :Jotunn.Managers.ItemManager] Adding 2 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 2 custom recipes to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Jotunn.Managers.PieceManager] Adding 263 custom pieces to the PieceTables
-[Info   : Unity Log] 10/07/2022 19:37:30: Audioman already exist, destroying self
-
-[Info   : Unity Log] 10/07/2022 19:37:30: Checking for installed DLCs
-
-[Info   : Unity Log] 10/07/2022 19:37:30: DLC:beta installed:False
-
-[Info   : Unity Log] 10/07/2022 19:37:30: Loaded 23688 map points from disk.
-
-[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   :Smart Containers Mod] Cleaned up UI extensions.
-[Info   : Unity Log] 10/07/2022 19:37:33: Zonesystem Start 18937
-
-[Info   : Unity Log] 10/07/2022 19:37:33: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
-
-[Info   : Unity Log] 10/07/2022 19:37:33: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
-
-[Info   : Unity Log] 10/07/2022 19:37:33: DungeonDB Start 18937
-
-[Info   : Unity Log] 10/07/2022 19:37:33: Load world: keeban (keeban)
-
-[Info   : Unity Log] 10/07/2022 19:37:33: Loading 281465 zdos , my id -990826896 data version:28
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Loaded 100000 dead zdos
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Removed 0 OLD generated ZDOS
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Loaded 7503 locations
-
-[Warning:Jotunn.Managers.KeyHintManager] Could not find child objects for KeyHints
-[Info   : Unity Log] 10/07/2022 19:37:34: Starting respawn
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Lobby was created k_EResultOK  109775242654233438  error:False
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Got requested lobby data
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Ticket is System.Byte[] of length 369
-
-[Info   : Unity Log] 10/07/2022 19:37:34: Session auth respons callback
-
-[Info   : Unity Log] 10/07/2022 19:37:40: Unpacking compressed mapdata 10271
-
-[Info   : Unity Log] 10/07/2022 19:37:40: tip:$loadscreen_tip01
-
-[Info   : Unity Log] 10/07/2022 19:37:40: Got requested lobby data
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Dungeon loaded 23
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Dungeon load time 27.8718 ms
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Dungeon loaded 19
-
-[Info   : Unity Log] 10/07/2022 19:37:44: Dungeon load time 19.8674 ms
-
-[Info   : Unity Log] 10/07/2022 19:37:48: Spawned after 8.019994
-
-[Info   : Unity Log] 10/07/2022 19:37:48: -------------------- SENDING VPLUSMAPSYNC DATA
-
-[Info   : Unity Log] 10/07/2022 19:37:48: Sent my map data to the server (592 map ranges, 1 chunks)
-
-[Info   : Unity Log] 10/07/2022 19:37:48: Minimap: Adding unique location (69.9, 57.2, -5.5)
-
-[Info   : Unity Log] 10/07/2022 19:37:50: Resumed music home at 0
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-
-[Info   : Unity Log] 10/07/2022 19:38:14: New connection
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Accepting connection k_EResultOK
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Connecting to Steamworks.SteamNetworkingIdentity
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
-
-[Info   : Unity Log] Sending org.bepinex.plugins.evasion SkillManager version 1.0.1 and minimum version 0.0.0 to the client.
-[Info   : Unity Log] 10/07/2022 19:38:14: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Got handshake from client 76561198020049173
-
-[Info   : Unity Log] 10/07/2022 19:38:14: VERSION check their:0.211.8@0.9.9.9  mine:0.211.8@0.9.9.9
-
-[Info   : Unity Log] 10/07/2022 19:38:14: Server: New peer connected,sending global keys
-
-[Info   :Jotunn.Managers.SynchronizationManager+<>c__DisplayClass25_0+<<ZNet_RPC_Post_PeerInfo>g__SynchronizeInitialData|0>d] Sending initial data to peer #1035168102
-[Info   : Unity Log] 10/07/2022 19:38:17: VPlus configuration synced to peer #1035168102
-
-[Info   : Unity Log] 10/07/2022 19:38:18: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:38:32: Got character ZDOID from Keeb : 1035168102:1
-
-[Info   : Unity Log] 10/07/2022 19:38:32: Received 772 map ranges from peer #1035168102.
-
-[Info   : Unity Log] 10/07/2022 19:38:32: -------------------------- Packages: 1
-
-[Info   : Unity Log] 10/07/2022 19:38:32: Sent map updates to all clients (763 map ranges, 1 chunks)
-
-[Info   : Unity Log] 10/07/2022 19:38:42: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:39:06: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:39:14: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 10/07/2022 19:39:14: Spawned Greydwarf_Elite x 1
-
-[Info   : Unity Log] 10/07/2022 19:39:15: Update PlayFab entity token
-
-[Info   : Unity Log] 10/07/2022 19:39:59: Player 1035168102 wants to pickup FirCone(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:40:18: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 10/07/2022 19:40:26: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:40:29: Setting selected recipe 0
-
-[Info   :Smart Containers Mod] Initialized UI extensions.
-[Info   : Unity Log] 10/07/2022 19:40:29: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:29: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:29: UI Group status changed QuickSlotGrid = False
-
-[Info   : Unity Log] 10/07/2022 19:40:29: UI Group status changed EquipmentSlotGrid = False
-
-[Info   : Unity Log] 10/07/2022 19:40:33: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:33: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:33: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:33: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:35: Stopped music home at 7239919
-
-[Info   : Unity Log] 10/07/2022 19:40:35: Resumed music home at 7239919
-
-[Info   : Unity Log] 10/07/2022 19:40:40: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:40: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:40: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:40: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:41: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:41: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:42: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:42: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:42: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:45: Poison damage: 46.14204 ttl:7.792793 hits:7 dmg perhit:6.59172
-
-[Info   : Unity Log] 10/07/2022 19:40:47: Poison damage: 92.18565 ttl:10.60134 hits:10 dmg perhit:9.218565
-
-[Info   : Unity Log] 10/07/2022 19:40:48: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:48: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:48: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:48: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:48: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:48: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:49: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:49: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:49: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:50: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:50: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:50: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:40:51: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:40:51: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:40:51: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:41:01: hit mine rock 1
-
-[Info   : Unity Log] 10/07/2022 19:41:06: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:41:10: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 10/07/2022 19:41:10: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 10/07/2022 19:41:10: Spawned Wraith x 1
-
-[Info   : Unity Log] 10/07/2022 19:41:10: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:41:22: Rel vel 8.457778
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup ElderBark(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup ElderBark(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup ElderBark(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup ElderBark(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:26: Player 1035168102 wants to pickup Wood(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:41:51: Poison damage: 45.75503 ttl:7.764246 hits:7 dmg perhit:6.536433
-
-[Info   : Unity Log] 10/07/2022 19:41:51: Poison damage: 45.75503 ttl:7.764246 hits:7 dmg perhit:6.536433
-
-[Info   : Unity Log] 10/07/2022 19:41:51: Poison damage: 45.75503 ttl:7.764246 hits:7 dmg perhit:6.536433
-
-[Info   : Unity Log] 10/07/2022 19:41:55: Poison damage: 41.54065 ttl:7.445204 hits:7 dmg perhit:5.934379
-
-[Info   : Unity Log] 10/07/2022 19:41:55: Poison damage: 41.54065 ttl:7.445204 hits:7 dmg perhit:5.934379
-
-[Info   : Unity Log] 10/07/2022 19:41:55: Poison damage: 41.54065 ttl:7.445204 hits:7 dmg perhit:5.934379
-
-[Info   : Unity Log] 10/07/2022 19:41:55: Poison damage: 41.54065 ttl:7.445204 hits:7 dmg perhit:5.934379
-
-[Info   : Unity Log] 10/07/2022 19:41:57: Stopped music home at 2734152
-
-[Info   : Unity Log] 10/07/2022 19:41:58: Poison damage: 40.72066 ttl:7.381275 hits:7 dmg perhit:5.817238
-
-[Info   : Unity Log] 10/07/2022 19:41:58: Poison damage: 40.72066 ttl:7.381275 hits:7 dmg perhit:5.817238
-
-[Info   : Unity Log] 10/07/2022 19:41:58: Poison damage: 40.72066 ttl:7.381275 hits:7 dmg perhit:5.817238
-
-[Info   : Unity Log] 10/07/2022 19:41:58: Poison damage: 40.72066 ttl:7.381275 hits:7 dmg perhit:5.817238
-
-[Info   : Unity Log] 10/07/2022 19:42:02: Stopped music blackforest at 228302
-
-[Info   : Unity Log] 10/07/2022 19:42:02: Resumed music home at 2734152
-
-[Info   : Unity Log] 10/07/2022 19:42:13: Stopped music home at 3211160
-
-[Info   : Unity Log] 10/07/2022 19:42:13: Resumed music blackforest at 228302
-
-[Info   : Unity Log] 10/07/2022 19:42:14: Spawned Deer x 3
-
-[Info   : Unity Log] 10/07/2022 19:42:18: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:42:32: Player 1035168102 wants to pickup SpearWolfFang(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:42:36: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:42:36: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:42:36: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:42:38: Spawned Greydwarf x 2
-
-[Info   : Unity Log] 10/07/2022 19:42:38: Spawned Greydwarf x 2
-
-[Info   : Unity Log] 10/07/2022 19:42:38: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 10/07/2022 19:42:42: Spawned FireFlies x 1
-
-[Info   : Unity Log] 10/07/2022 19:43:04: Stopped music blackforest at 2473567
-
-[Info   : Unity Log] 10/07/2022 19:43:38: Resumed music blackforest at 2473567
-
-[Info   : Unity Log] 10/07/2022 19:43:56: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:43:56: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:43:56: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:43:59: Stopped music blackforest at 3385514
-
-[Info   : Unity Log] 10/07/2022 19:43:59: Resumed music home at 3211160
-
-[Info   : Unity Log] 10/07/2022 19:43:59: Setting selected recipe 12
-
-[Info   : Unity Log] 10/07/2022 19:43:59: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:43:59: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:25: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:25: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:44:25: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:26: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:26: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:44:26: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:30: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:30: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:44:30: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:31: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:37: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:38: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:38: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:40: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:40: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:42: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:44:42: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:44:42: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:45: Setting selected recipe 12
-
-[Info   : Unity Log] 10/07/2022 19:44:45: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:44:45: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:44:59: Stopped music home at 5862844
-
-[Info   : Unity Log] 10/07/2022 19:44:59: Resumed music blackforest at 3385514
-
-[Info   : Unity Log] 10/07/2022 19:45:02: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:45:02: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:45:02: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:45:06: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:45:06: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:45:06: UI Group status changed Player = True
-
-[Info   : Unity Log] Use deer trophy!
-[Info   : Unity Log] Consume deer trophy!
-[Info   : Unity Log] Raised Run by 4
-[Info   : Unity Log] 10/07/2022 19:45:16: TRIGGER
-
-[Info   : Unity Log] 10/07/2022 19:45:16: Teleporting Niiiiikolai
-
-[Info   : Unity Log] 10/07/2022 19:45:21: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:45:21: Dungeon loaded 26
-
-[Info   : Unity Log] 10/07/2022 19:45:21: Dungeon load time 32.7493 ms
-
-[Info   : Unity Log] 10/07/2022 19:45:22: Setting saddle:False
-
-[Info   : Unity Log] 10/07/2022 19:45:22: Setting saddle:False
-
-[Info   : Unity Log] 10/07/2022 19:45:22: Setting saddle:False
-
-[Info   : Unity Log] 10/07/2022 19:45:29: Stopped music blackforest at 4720273
-
-[Info   : Unity Log] 10/07/2022 19:45:41: Player 1035168102 wants to pickup SpearWolfFang(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:41: Im finally the owner
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup LoxPelt(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup LoxPelt(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup LoxPelt(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup LoxMeat(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:46:   but im not the owner
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup LoxPelt(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Queue unlock msg:$msg_newmaterial:$item_loxmeat
-
-[Info   : Unity Log] 10/07/2022 19:45:46: Player 1035168102 wants to pickup TrophyLox(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:45:53: Setting selected recipe 10
-
-[Info   : Unity Log] 10/07/2022 19:45:53: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:45:53: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:46:04: Starting respawn
-
-[Warning: Unity Log] 10/07/2022 19:46:04: Local player destroyed
-
-[Info   : Unity Log] 10/07/2022 19:46:04: tip:$loadscreen_tip18
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Dungeon loaded 23
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Dungeon load time 22.3992 ms
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Dungeon loaded 19
-
-[Info   : Unity Log] 10/07/2022 19:46:07: Dungeon load time 16.7394 ms
-
-[Info   : Unity Log] 10/07/2022 19:46:12: Found bed at custom spawn point
-
-[Info   : Unity Log] 10/07/2022 19:46:14: Stopped music plains at 1992940
-
-[Info   : Unity Log] 10/07/2022 19:46:14: Resumed music blackforest at 4720273
-
-[Info   : Unity Log] 10/07/2022 19:46:14: Stopped music blackforest at 4721551
-
-[Info   : Unity Log] 10/07/2022 19:46:14: Resumed music home at 5862844
-
-[Info   : Unity Log] 10/07/2022 19:46:17: TRIGGER
-
-[Info   : Unity Log] 10/07/2022 19:46:17: Teleporting Niiiiikolai
-
-[Info   : Unity Log] 10/07/2022 19:46:18: Stopped music home at 6042148
-
-[Info   : Unity Log] 10/07/2022 19:46:18: Resumed music blackforest at 4721551
-
-[Info   : Unity Log] 10/07/2022 19:46:21: Stopped music blackforest at 4844122
-
-[Info   : Unity Log] 10/07/2022 19:46:21: Resumed music plains at 1992940
-
-[Info   : Unity Log] 10/07/2022 19:46:22: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:46:22: Dungeon loaded 26
-
-[Info   : Unity Log] 10/07/2022 19:46:22: Dungeon load time 31.2546 ms
-
-[Info   : Unity Log] 10/07/2022 19:46:23: Setting saddle:False
-
-[Info   : Unity Log] 10/07/2022 19:46:23: Setting saddle:False
-
-[Info   : Unity Log] 10/07/2022 19:46:35: Grave should fit in inventory, loot all
-
-[Info   : Unity Log] 10/07/2022 19:46:39: Setting selected recipe 10
-
-[Info   : Unity Log] 10/07/2022 19:46:39: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:46:39: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:46:44: Setting selected recipe 10
-
-[Info   : Unity Log] 10/07/2022 19:46:44: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:46:44: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:46:45: Setting selected recipe 10
-
-[Info   : Unity Log] 10/07/2022 19:46:46: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:46:46: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:46:51: Setting selected recipe 10
-
-[Info   : Unity Log] 10/07/2022 19:47:05: TRIGGER
-
-[Info   : Unity Log] 10/07/2022 19:47:16: TRIGGER
-
-[Info   : Unity Log] 10/07/2022 19:47:16: Teleporting Niiiiikolai
-
-[Info   : Unity Log] 10/07/2022 19:47:21: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:47:21: Dungeon loaded 23
-
-[Info   : Unity Log] 10/07/2022 19:47:21: Dungeon load time 32.6343 ms
-
-[Info   : Unity Log] 10/07/2022 19:47:29: Stopped music plains at 4964927
-
-[Info   : Unity Log] 10/07/2022 19:47:29: Resumed music blackforest at 4844122
-
-[Info   : Unity Log] 10/07/2022 19:47:59: Update PlayFab entity token
-
-[Info   : Unity Log] Look rotation viewing vector is zero
-[Info   : Unity Log] 10/07/2022 19:52:59: Spawned Leech x 1
-
-[Info   : Unity Log] 10/07/2022 19:54:16: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:16: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:16: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:54:16: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:54:16: Loading dungeon
-
-[Info   : Unity Log] 10/07/2022 19:54:16: Dungeon loaded 19
-
-[Info   : Unity Log] 10/07/2022 19:54:16: Dungeon load time 19.693 ms
-
-[Info   : Unity Log] 10/07/2022 19:54:18: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:18: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:18: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:54:18: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:54:19: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:20: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:20: Stopped music blackforest at 4896455
-
-[Info   : Unity Log] 10/07/2022 19:54:22: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:24: drop all 1  1
-
-[Info   : Unity Log] 10/07/2022 19:54:24: Item is not in this container
-
-[Info   : Unity Log] 10/07/2022 19:54:24: Player 1035168102 wants to pickup SpearWolfFang(Clone)   im: -990826896
-
-[Info   : Unity Log] 10/07/2022 19:54:27: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:27: Setting selected recipe 1
-
-[Info   : Unity Log] 10/07/2022 19:54:27: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:54:27: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:54:35: Setting selected recipe 15
-
-[Info   : Unity Log] 10/07/2022 19:54:35: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:54:35: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:54:38: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:54:38: UI Group status changed root = True
-
-[Info   : Unity Log] 10/07/2022 19:54:38: UI Group status changed Player = True
-
-[Info   : Unity Log] 10/07/2022 19:54:41: Setting selected recipe 0
-
-[Info   : Unity Log] 10/07/2022 19:54:57: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 10/07/2022 19:55:01: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Game - OnApplicationQuit
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Shuting down
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Uncompressed size 8388890
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Compressed size 10282
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Cloud Save: 25325 bytes. /characters/niiiiikolai.fch.new
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Steam writing file chunks 1 / 1, (25325 bytes)
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Steam Cloud Move: 27667 bytes. /characters/niiiiikolai.fch -> /characters/niiiiikolai.fch.old
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Steam writing file chunks 1 / 1, (27667 bytes)
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Steam Cloud Move: 25325 bytes. /characters/niiiiikolai.fch.new -> /characters/niiiiikolai.fch
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Steam writing file chunks 1 / 1, (25325 bytes)
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Considering autobackup. World time: 1041.22, short time: 7200, long time: 43200, backup count: 4
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Skipping backup. World session not long enough.
-
-[Info   : Unity Log] 10/07/2022 19:55:02: Saved 23775 map points to disk.
-
-[Info   : Unity Log] 10/07/2022 19:55:02: ZNet Shutdown
-
-[Info   : Unity Log] 10/07/2022 19:55:02: clone 203
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Sending disconnect msg
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Sent to 76561198020049173
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Disposing socket
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Stopping listening socket
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Disposing socket
-
-[Info   : Unity Log] 10/07/2022 19:55:03: Closing socket 76561198020049173
-
-[Info   : Unity Log] 10/07/2022 19:55:03:   send queue size:0
-
-[Info   : Unity Log] 10/07/2022 19:55:04: Last socket, unregistering callback
-
-[Info   : Unity Log] 10/07/2022 19:55:04: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] 10/07/2022 19:55:04: Disposing socket
-
-[Info   : Unity Log] 10/07/2022 19:55:04: Last socket, unregistering callback
-
-[Info   : Unity Log] 10/07/2022 19:55:04: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Warning: Unity Log] 10/07/2022 19:55:06: Local player destroyed
-
-[Info   : Unity Log] 10/07/2022 19:55:06: Steam manager on destroy
-
-[Info   : Unity Log] 10/07/2022 19:55:06: ZNet OnDestroy
-
-[Info   : Unity Log] 10/07/2022 19:55:06: Net scene destroyed
+[Info   : Unity Log] 10/07/2022 19:58:10: show character selection
 
 [Info   :Smart Containers Mod] Cleaned up UI extensions.
-[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
+[Info   : Unity Log] 10/07/2022 20:01:17: Steam manager on destroy
+

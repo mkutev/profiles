@@ -1,1 +1,2 @@
 *.log
+val-sync/BepInEx/cache/*
