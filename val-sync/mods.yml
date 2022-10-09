@@ -17,7 +17,8 @@
     minor: 4
     patch: 1901
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\denikson-BepInExPack_Valheim\5.4.1901\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/denikson-BepInExPack_Valheim/5.4.1901/icon.png
 - manifestVersion: 1
   name: RandyKnapp-EquipmentAndQuickSlots
   authorName: RandyKnapp
@@ -37,8 +38,9 @@
     major: 2
     minor: 0
     patch: 15
-  enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\RandyKnapp-EquipmentAndQuickSlots\icon.png
+  enabled: false
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-EquipmentAndQuickSlots/2.0.15/icon.png
 - manifestVersion: 1
   name: RandyKnapp-ExtendedItemDataFramework
   authorName: RandyKnapp
@@ -58,7 +60,8 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\RandyKnapp-ExtendedItemDataFramework\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-ExtendedItemDataFramework/1.0.7/icon.png
 - manifestVersion: 1
   name: RandyKnapp-EpicLoot
   authorName: RandyKnapp
@@ -80,7 +83,8 @@
     minor: 8
     patch: 9
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\RandyKnapp-EpicLoot\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-EpicLoot/0.8.9/icon.png
 - manifestVersion: 1
   name: GoldenJude-Blacksmiths_tools
   authorName: GoldenJude
@@ -102,7 +106,8 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\GoldenJude-Blacksmiths_tools\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GoldenJude-Blacksmiths_tools/2.0.2/icon.png
 - manifestVersion: 1
   name: GoldenJude-Judes_Equipment
   authorName: GoldenJude
@@ -124,7 +129,8 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\GoldenJude-Judes_Equipment\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.0/icon.png
 - manifestVersion: 1
   name: ValheimModding-Jotunn
   authorName: ValheimModding
@@ -148,7 +154,8 @@
     minor: 7
     patch: 9
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\ValheimModding-Jotunn\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ValheimModding-Jotunn/2.7.9/icon.png
 - manifestVersion: 1
   name: OdinPlus-Clutter
   authorName: OdinPlus
@@ -170,7 +177,8 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\OdinPlus-Clutter\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-Clutter/0.1.3/icon.png
 - manifestVersion: 1
   name: OdinPlus-OdinArchitect
   authorName: OdinPlus
@@ -194,7 +202,8 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\OdinPlus-OdinArchitect\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinArchitect/0.1.3/icon.png
 - manifestVersion: 1
   name: HugotheDwarf-More_and_Modified_Player_Cloth_Colliders
   authorName: HugotheDwarf
@@ -218,7 +227,8 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\HugotheDwarf-More_and_Modified_Player_Cloth_Colliders\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/HugotheDwarf-More_and_Modified_Player_Cloth_Colliders/3.0.1/icon.png
 - manifestVersion: 1
   name: ZOR-SmartContainers
   authorName: ZOR
@@ -243,7 +253,8 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\ZOR-SmartContainers\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ZOR-SmartContainers/1.6.0/icon.png
 - manifestVersion: 1
   name: MSchmoecker-MultiUserChest
   authorName: MSchmoecker
@@ -265,7 +276,8 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\MSchmoecker-MultiUserChest\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MSchmoecker-MultiUserChest/0.2.4/icon.png
 - manifestVersion: 1
   name: Banderi-Rotating_Minimap
   authorName: Banderi
@@ -286,7 +298,8 @@
     minor: 0
     patch: 0
   enabled: false
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Banderi-Rotating_Minimap\1.0.0\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Banderi-Rotating_Minimap/1.0.0/icon.png
 - manifestVersion: 1
   name: virtuaCode-TrashItems
   authorName: virtuaCode
@@ -309,7 +322,8 @@
     minor: 2
     patch: 4
   enabled: false
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\virtuaCode-TrashItems\1.2.4\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/virtuaCode-TrashItems/1.2.4/icon.png
 - manifestVersion: 1
   name: Smoothbrain-Evasion
   authorName: Smoothbrain
@@ -330,7 +344,8 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\Smoothbrain-Evasion\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Evasion/1.0.1/icon.png
 - manifestVersion: 1
   name: Maximmus-Useful_Trophies
   authorName: Maximmus
@@ -351,7 +366,8 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\Maximmus-Useful_Trophies\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Maximmus-Useful_Trophies/1.1.0/icon.png
 - manifestVersion: 1
   name: JereKuusela-Smoke_Collision
   authorName: JereKuusela
@@ -373,7 +389,8 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\JereKuusela-Smoke_Collision\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/JereKuusela-Smoke_Collision/1.3.0/icon.png
 - manifestVersion: 1
   name: RandyKnapp-MinimalStatusEffects
   authorName: RandyKnapp
@@ -394,7 +411,8 @@
     minor: 0
     patch: 3
   enabled: false
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\RandyKnapp-MinimalStatusEffects\1.0.3\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-MinimalStatusEffects/1.0.3/icon.png
 - manifestVersion: 1
   name: RandyKnapp-Auga
   authorName: RandyKnapp
@@ -414,7 +432,8 @@
     minor: 0
     patch: 12
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\RandyKnapp-Auga\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-Auga/1.0.12/icon.png
 - manifestVersion: 1
   name: remmiz-SaneInventory
   authorName: remmiz
@@ -435,7 +454,8 @@
     minor: 0
     patch: 1
   enabled: false
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\remmiz-SaneInventory\1.0.1\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/remmiz-SaneInventory/1.0.1/icon.png
 - manifestVersion: 1
   name: billw2012-BetterContinents
   authorName: billw2012
@@ -459,7 +479,8 @@
     minor: 7
     patch: 3
   enabled: false
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\cache\billw2012-BetterContinents\0.7.3\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/billw2012-BetterContinents/0.7.3/icon.png
 - manifestVersion: 1
   name: sweetgiorni-AnyPortal
   authorName: sweetgiorni
@@ -481,4 +502,5 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\nikolai\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\val-sync\BepInEx\plugins\sweetgiorni-AnyPortal\icon.png
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/sweetgiorni-AnyPortal/2.0.0/icon.png
