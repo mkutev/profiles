@@ -504,3 +504,26 @@
   enabled: true
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/sweetgiorni-AnyPortal/2.0.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Mining
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Mining/
+  displayName: Mining
+  description: Adds a skill that increases damage dealt while mining and item
+    yield from ore deposits.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Mining/1.1.2/icon.png
