@@ -1,0 +1,52 @@
+
+0.1.2
+
+	Tweaked Backstab bonuses for axes.
+	Adjusted base damage to be more inline with bronze weapons.
+
+0.1.1
+
+- Fixed secondary attacks been under powered.
+- Increased chop damage on axes.
+- Fixed Block and Block Power per level on weapons.
+- Fixed broken Stagger/Force/Damage multipliers.
+- Added secondary attack to 1H axes.
+	
+0.1.0
+
+- Fixed Spellbalde.
+- Fixed shields having duplicated Floating components.
+- Updated Description.
+
+0.0.8
+
+- Added Floating component to all items.
+- Increased Iron upgrade cost to 6.
+
+0.0.7
+
+- Updated english Localization, thanx Jack Ravenwood (OdinPlus discord)
+
+0.0.6
+
+- Added Press, Trough, Furnace and Firepit as Forge Extentions.
+
+0.0.5
+
+- Fixed Broken 2h missing an effect that caused NRE's.
+
+0.0.4
+
+- Fixed Recipe conflict and localization issues.
+
+0.0.3
+
+- Compiled against new assemblies.
+
+0.0.2
+
+- Fixed 2h Hammers and Swords.
+
+0.0.1
+
+- Initial upload to TS.

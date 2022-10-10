@@ -1,0 +1,9 @@
+{
+    "name": "Surtling_Boat",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/swazrgb/valheim-surtling-boats",
+    "description": "Allows you to use Surtling cores to speed up boats.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.601"
+    ]
+}

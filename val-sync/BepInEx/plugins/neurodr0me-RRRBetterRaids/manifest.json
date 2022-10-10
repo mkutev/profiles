@@ -1,0 +1,7 @@
+{
+    "name": "RRRBetterRaids",
+    "version_number": "2.2.0",
+    "website_url": "",
+    "description": "Enhances the raid system to make base defense actually matter.",
+    "dependencies": ["neurodr0me-RRRCore-2.8.0"]
+}

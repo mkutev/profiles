@@ -1,0 +1,9 @@
+﻿{
+  "name": "OdinTrainingPlace",
+  "version_number": "1.0.1",
+  "website_url": "https://discord.gg/fjYKpEDmSQ",
+  "description": "Training Place is just simple mod for additional pieces thanks to which you can level up Your skills faster or just use them as decoration of your village. If you're building lover this is definitely another mod for you.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1700"
+  ]
+}

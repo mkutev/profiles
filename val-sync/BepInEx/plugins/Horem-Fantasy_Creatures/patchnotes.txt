@@ -1,0 +1,92 @@
+0.3.0
+
+	Re-enabled Harpy and Griffin.
+	Localization bugfixing.
+
+0.2.4
+
+	Code fixes.
+	Updated all attacks to be compatible with Wackys Database.
+
+0.2.3
+
+	Bugfixing.
+
+0.2.2
+
+	Localization fixes.
+	
+0.2.1
+
+	Fixed mobs not moving up/down slopes correctly, if at all.
+
+0.2.0
+
+	Added death animations.
+	Disabled logging.
+
+0.1.3
+
+	Balance tweaks to Ent.
+
+0.1.2
+
+	Fix for some trophy animations.
+
+0.1.1
+
+	Fix for missing VFX and cross over VFX.
+
+0.1.0
+
+	Collider fixes.
+	Added Biome related drops to all monsters.
+	Added Animated Trophies.
+
+0.0.9
+
+	Spawn Fix.
+	
+0.0.8
+
+	Adjusted movement speed on Mummy, Elemental's and Demon Lord
+	Adjusted attack ranges on most creatures.
+	
+0.0.7
+
+	Fixed broken Eye Posistions.
+	Fixed broken Attacks.
+	Adjusted Colliders.
+	Turned Logging off.
+	Included FC_Config.zip, contains Spawn That and CLLC configs.
+
+0.0.6
+
+	Included correct dll, not my half changed one from testing.
+
+0.0.5
+
+	Adjusted Spawns.
+	Adjusted Colliders.
+	
+0.0.4
+
+	Removed VisEquips on mobs that were not using since it still causes NRE's.
+
+0.0.3
+
+	Disabled VisEquip on Monsters to stop NRE spam due to no VisEquip items been equiped.
+	Adjusted Ent Attacks.
+	Disabled Giant Viper untill I can work out why its floating.
+	
+0.0.2
+
+	Added more details to Description.
+	Adjusted all monsters attack speed.
+	Adjusted Ent attacks.
+	Adjusted Viper attack.
+	Adjusted all monsters Vertical Strikes.
+	
+0.0.1
+
+	Initial upload to TS.

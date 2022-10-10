@@ -390,3 +390,350 @@
   enabled: true
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/Smoothbrain-Mining/1.1.2/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinHorse
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinHorse/
+  displayName: OdinHorse
+  description: Horse mount and new items! You can tame it, You can ride it, You
+    can attach the cart!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 1
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinHorse/0.5.1/icon.png
+- manifestVersion: 1
+  name: remmiz-SimpleRecycling_Fixed
+  authorName: remmiz
+  websiteUrl: https://valheim.thunderstore.io/package/remmiz/SimpleRecycling_Fixed/
+  displayName: SimpleRecycling_Fixed
+  description: Adds a tab to the crafting station that recycles (uncrafts) items
+    from player inventory
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 15
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/remmiz-SimpleRecycling_Fixed/0.0.15/icon.png
+- manifestVersion: 1
+  name: swazrgb-Surtling_Boat
+  authorName: swazrgb
+  websiteUrl: https://valheim.thunderstore.io/package/swazrgb/Surtling_Boat/
+  displayName: Surtling_Boat
+  description: Allows you to use Surtling cores to speed up boats.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/swazrgb-Surtling_Boat/1.0.2/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinTrainingPlace
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinTrainingPlace/
+  displayName: OdinTrainingPlace
+  description: Training Place is just simple mod for additional pieces thanks to
+    which you can level up Your skills faster or just use them as decoration of
+    your village. If you're building lover this is definitely another mod for
+    you.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinTrainingPlace/1.0.1/icon.png
+- manifestVersion: 1
+  name: MathiasDecrock-SurtlingCoreOverclocking
+  authorName: MathiasDecrock
+  websiteUrl: https://valheim.thunderstore.io/package/MathiasDecrock/SurtlingCoreOverclocking/
+  displayName: SurtlingCoreOverclocking
+  description: Factorio-style modules for Valheim! Overclock your Kilns, Smelters
+    and Blast Furnaces with Surtling Cores.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.0.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MathiasDecrock-SurtlingCoreOverclocking/1.2.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-DarwinAwards
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/DarwinAwards/
+  displayName: DarwinAwards
+  description: Adds a death feed to your server.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-DarwinAwards/1.0.3/icon.png
+- manifestVersion: 1
+  name: MonsterLabZ-MonsterLabZ
+  authorName: MonsterLabZ
+  websiteUrl: https://valheim.thunderstore.io/package/MonsterLabZ/MonsterLabZ/
+  displayName: MonsterLabZ
+  description: Explore Valheim with new monsters to fight!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MonsterLabZ-MonsterLabZ/2.7.0/icon.png
+- manifestVersion: 1
+  name: AeehyehssReeper-ChaosArmor
+  authorName: AeehyehssReeper
+  websiteUrl: https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/
+  displayName: ChaosArmor
+  description: "Adds new set of armor featuring models and textures ported from
+    the abandoned Grim Age mod for Mount & Blade: Warband. Assets are based on
+    Warhammer Fantasy and are thus copyrighted as Derivative Works by Games
+    Workshop."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - GoldenJude-Blacksmiths_tools-2.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 10
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/AeehyehssReeper-ChaosArmor/10.0.2/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRCore
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRCore/
+  displayName: RRRCore
+  description: Core library used by my other mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 12
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRCore/2.12.0/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRBetterRaids
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRBetterRaids/
+  displayName: RRRBetterRaids
+  description: Enhances the raid system to make base defense actually matter.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - neurodr0me-RRRCore-2.8.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRBetterRaids/2.2.0/icon.png
+- manifestVersion: 1
+  name: Huntardys-EpicValheimsAdditions
+  authorName: Huntardys
+  websiteUrl: https://valheim.thunderstore.io/package/Huntardys/EpicValheimsAdditions/
+  displayName: EpicValheimsAdditions
+  description: ﻿Adds 3 new tiers of Weapons / Shields / Tools, Custom Bosses,
+    Custom Boss Altars, Custom Minibosses, Gatherable Ores / Resources, to the
+    Mistlands/Deepnorth/Ashlands. EVA , Epic Valheim Additions ,
+    EpicValheimAdditions , Epic_Valheim_Additions
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.7.4
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 8
+    patch: 3
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Huntardys-EpicValheimsAdditions/1.8.3/icon.png
+- manifestVersion: 1
+  name: ASharpPen-Spawn_That
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/
+  displayName: Spawn_That
+  description: Advanced tool for customizing mob spawners throughout the world
+    with configuration files.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ASharpPen-Spawn_That/1.1.4/icon.png
+- manifestVersion: 1
+  name: Horem-Fantasy_Creatures
+  authorName: Horem
+  websiteUrl: https://valheim.thunderstore.io/package/Horem/Fantasy_Creatures/
+  displayName: Fantasy_Creatures
+  description: Adds 15 different fantasy themed creatures.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ASharpPen-Spawn_That-1.0.3
+    - ValheimModding-Jotunn-2.6.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Horem-Fantasy_Creatures/0.3.0/icon.png
+- manifestVersion: 1
+  name: Horem-Fantasy_Armoury
+  authorName: Horem
+  websiteUrl: https://valheim.thunderstore.io/package/Horem/Fantasy_Armoury/
+  displayName: Fantasy_Armoury
+  description: Adds 33 fantasy themed Weapons and 9 Shields.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.6.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Horem-Fantasy_Armoury/0.1.2/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinCampsite
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinCampsite/
+  displayName: OdinCampsite
+  description: Campsite is just simple mod for additional pieces thanks to which
+    you can travel safe and save time to build temporary bases. Become the real
+    adventurer!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinCampsite/1.0.0/icon.png

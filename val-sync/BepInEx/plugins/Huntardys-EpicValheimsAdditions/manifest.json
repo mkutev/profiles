@@ -1,0 +1,10 @@
+{
+    "name": "EpicValheimsAdditions",
+    "version_number": "1.8.3",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1475",
+    "description": "﻿Adds 3 new tiers of Weapons / Shields / Tools, Custom Bosses, Custom Boss Altars, Custom Minibosses, Gatherable Ores / Resources, to the Mistlands/Deepnorth/Ashlands. EVA , Epic Valheim Additions , EpicValheimAdditions , Epic_Valheim_Additions",
+    "dependencies": [
+        "ValheimModding-Jotunn-2.7.4",
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

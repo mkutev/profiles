@@ -1,0 +1,10 @@
+{
+    "name": "Digitalroots_EpicLoot_Adventure_Bounties",
+    "version_number": "2.1.2",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1401",
+    "description": "Adds 275+ bounties to Epic Loot's Adventure mode.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1500",
+        "RandyKnapp-EpicLoot-0.8.6"
+    ]
+}

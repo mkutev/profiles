@@ -1,0 +1,9 @@
+{
+  "name": "MonsterLabZ",
+  "version_number": "2.7.0",
+  "website_url": "https://discord.gg/wVNZf2DjwT",
+  "description": "Explore Valheim with new monsters to fight!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
