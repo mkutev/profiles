@@ -1,9 +1,0 @@
-{
-    "name": "SaneInventory",
-    "version_number": "1.0.1",
-    "website_url": "https://github.com/remmizekim/ValheimMods/",
-    "description": "Remove max stack sizes for items and enforces weight limits instead.",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1900"
-	]
-}
