@@ -1,0 +1,9 @@
+{
+    "name": "BlastFurnaceAllOres",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/tueman/ValheimMods",
+    "description": "Allows the blast furnace to smelt all ores, including ones smelted by the smelter.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.701"
+    ]
+}

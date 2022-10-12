@@ -341,7 +341,7 @@
     major: 1
     minor: 0
     patch: 12
-  enabled: true
+  enabled: false
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/RandyKnapp-Auga/1.0.12/icon.png
 - manifestVersion: 1
@@ -737,3 +737,26 @@
   enabled: true
   icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/Valheim/cache/OdinPlus-OdinCampsite/1.0.0/icon.png
+- manifestVersion: 1
+  name: SpaceDrive-BlastFurnaceAllOres
+  authorName: SpaceDrive
+  websiteUrl: https://valheim.thunderstore.io/package/SpaceDrive/BlastFurnaceAllOres/
+  displayName: BlastFurnaceAllOres
+  description: Allows the blast furnace to smelt all ores, including ones smelted
+    by the smelter.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/nikolai/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/SpaceDrive-BlastFurnaceAllOres/1.0.1/icon.png
